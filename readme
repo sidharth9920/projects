@@ -1,0 +1,11 @@
+PROJECT DESCRIPTION
+
+Student Management System
+
+This software consists following features:
+
+a)  Search student record
+b)  Update student record
+c)  Delete student record
+d)  Insert a new student record
+e)  All Validations no duplicated record insert
